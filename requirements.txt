@@ -1,0 +1,4 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+transformers==4.35.0
+torch==2.0.1  # Make sure this version matches your system's capabilities; newer versions may also workrequ
