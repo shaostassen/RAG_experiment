@@ -1,4 +1,8 @@
 requests==2.31.0
 beautifulsoup4==4.12.2
 transformers==4.35.0
-torch==2.0.1  # Make sure this version matches your system's capabilities; newer versions may also workrequ
+torch==2.0.1  # Make sure this version matches your system's capabilities
+wikipedia-api==0.7.1
+transformers==4.35.0
+sentence-transformers==2.1.0
+scikit-learn==1.0.1
